@@ -2,5 +2,4 @@ streamlit
 folium
 streamlit-folium
 pandas
-sqlite3
 requests
